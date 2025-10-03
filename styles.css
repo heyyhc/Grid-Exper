@@ -1,6 +1,6 @@
 .container {
  display: grid;
- grid-template-columns: auto auto auto;
+ grid-template-columns: auto auto auto auto;
  background-color: blueviolet;
 }
 .container > div {
