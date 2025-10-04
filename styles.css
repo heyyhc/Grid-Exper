@@ -10,3 +10,9 @@
  padding: 20px 0;
  font-size: 15px;
 }
+
+.p (padding) {
+    padding: 10px;
+    font-size: 20px;
+    text-align: center;
+}   
